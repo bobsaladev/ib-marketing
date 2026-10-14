@@ -40,7 +40,7 @@ No migrar a Next.js, Remix, Pages-only, ni otra UI kit a menos que Isaac lo pida
 Prerrequisitos: Node.js 20+ (recomendado), npm.
 
 ```bash
-git clone <URL_DEL_REPO>
+git clone https://github.com/bobsaladev/ib-marketing.git
 cd ib-marketing
 npm install
 npm run dev
